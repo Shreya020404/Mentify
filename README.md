@@ -138,10 +138,6 @@ docker run -d -p 3000:3000 --name your_container_name your_image_name:tag
 
 ![Screenshot 2024-01-16 213123](https://github.com/kanugurajesh/Mentify/assets/77529419/44778124-1883-4bc0-a2da-9f52e6a7bd52)
 
-<p align=center>Contact Form</p>
-
-![Screenshot 2024-01-16 213138](https://github.com/kanugurajesh/Mentify/assets/77529419/67ceee10-e1b1-4db3-90f0-98c96ca8c120)
-
 <p align=center>Mental Health Choose</p>
 
 ![Screenshot 2024-01-16 213157](https://github.com/kanugurajesh/Mentify/assets/77529419/07f2dab7-1f1e-431a-8499-1db46e63a06f)
